@@ -142,8 +142,9 @@ GitHub: [@chidambardesai](https://github.com/chidambardesai)
 
 ## License
 
-A license has not yet been specified. Add an appropriate license before redistributing the project.
+Copyright © 2026 Chidambar Desai. All rights reserved.
 
+This repository is publicly available for viewing. No license has been granted for copying, modifying, distributing, or using this project's code without the author's permission.
 
 ## Screenshots
 
